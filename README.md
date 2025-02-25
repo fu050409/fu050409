@@ -16,9 +16,4 @@
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fu050409&theme=tokyonight">
     </td>
   </tr>
-  <tr>
-    <td colspan=2 align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fu050409&theme=tokyonight" alt="苏向夜's Github Streak">
-    </td>
-  </tr>
 </table>
