@@ -1,6 +1,11 @@
 name: Update README cards
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "profile/*.svg"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
